@@ -1,0 +1,130 @@
+[
+    {
+        "id": "001",
+        "name": "家用电器",
+        "keywords": [
+            "节能补贴",
+            "4K电视",
+            "空气净化器",
+            "IH电饭煲",
+            "滚筒洗衣机",
+            "电热水器"
+        ],
+        "imgUrl": "/images/floor-1-1.png",
+        "navList": [
+            {
+                "url": "#",
+                "text": "热门"
+            },
+            {
+                "url": "#",
+                "text": "大家电"
+            },
+            {
+                "url": "#",
+                "text": "生活电器"
+            },
+            {
+                "url": "#",
+                "text": "厨房电器"
+            },
+            {
+                "url": "#",
+                "text": "应季电器"
+            },
+            {
+                "url": "#",
+                "text": "空气/净水"
+            },
+            {
+                "url": "#",
+                "text": "高端电器"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "/images/floor-1-b01.png"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "/images/floor-1-b02.png"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "/images/floor-1-b03.png"
+            }
+        ],
+        "recommendList": [
+            "/images/floor-1-2.png",
+            "/images/recommendList1.jpg",
+            "/images/floor-1-5.png",
+            "/images/floor-1-6.png"
+        ],
+        "bigImg": "/images/floor-1-4.png"
+    },
+    {
+        "id": "002",
+        "name": "手机通讯",
+        "keywords": [
+            "游戏手机",
+            "5G手机",
+            "全面屏手机",
+            "对讲机",
+            "以旧换新",
+            "手机维修"
+        ],
+        "imgUrl": "/images/floor-1-1.png",
+        "navList": [
+            {
+                "url": "#",
+                "text": "热门"
+            },
+            {
+                "url": "#",
+                "text": "华为"
+            },
+            {
+                "url": "#",
+                "text": "小米"
+            },
+            {
+                "url": "#",
+                "text": "HONOR"
+            },
+            {
+                "url": "#",
+                "text": "VIVO"
+            },
+            {
+                "url": "#",
+                "text": "Apple"
+            },
+            {
+                "url": "#",
+                "text": "ONEPLUS"
+            }
+        ],
+        "carouselList": [
+            {
+                "id": "0011",
+                "imgUrl": "/images/Apple.jpg"
+            },
+            {
+                "id": "0012",
+                "imgUrl": "/images/HONOR.jpg"
+            },
+            {
+                "id": "0013",
+                "imgUrl": "/images/111.jpg"
+            }
+        ],
+        "recommendList": [
+            "/images/recommendList1.jpg",
+            "/images/recommendList2.jpg",
+            "/images/recommendList3.jpg",
+            "/images/recommendList4.jpg"
+        ],
+        "bigImg": "/images/oneplus.jpg"
+    }
+]
